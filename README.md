@@ -15,3 +15,11 @@ DAY 2 26/8/31
 
 DAY 3 26/9/1
   今天進度: 有稍微寫a038.數字翻轉 但是也沒寫出來 明天一定要寫出來>:) 多寫幾題w
+
+DAY 4 26/9/2
+  今天進度:無 -> 去趕工社團企劃書了
+DAY 5 26/9/3
+  今天進度: a038.數字翻轉 完成
+        程式 : https://docs.google.com/document/d/1gx16P4hRp_nDZ-X3JIeE6X5ZcMSbGT5_532G_Fr1DHY/edit?tab=t.0
+  心得: 我是笨蛋我浪費了好多時間 原來有數字翻轉的程式QAQ 
+  
