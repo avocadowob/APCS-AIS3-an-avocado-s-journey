@@ -22,4 +22,7 @@ DAY 5 26/9/3
   今天進度: a038.數字翻轉 完成
         程式 : https://docs.google.com/document/d/1gx16P4hRp_nDZ-X3JIeE6X5ZcMSbGT5_532G_Fr1DHY/edit?tab=t.0
   心得: 我是笨蛋我浪費了好多時間 原來有數字翻轉的程式QAQ 
+DAY 7 26/9/5
+  今天進度:
+   min(數列) 可以找出一個數列最小值
   
