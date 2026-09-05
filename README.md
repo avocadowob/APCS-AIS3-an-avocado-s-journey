@@ -23,6 +23,9 @@ DAY 5 26/9/3
         程式 : https://docs.google.com/document/d/1gx16P4hRp_nDZ-X3JIeE6X5ZcMSbGT5_532G_Fr1DHY/edit?tab=t.0
   心得: 我是笨蛋我浪費了好多時間 原來有數字翻轉的程式QAQ 
 DAY 7 26/9/5
-  今天進度:
-   min(數列) 可以找出一個數列最小值
+  今天進度: 3904. Smallest Stable Index II (done?) 還有改成用leetcode
+      min(數列) 可以找出一個數列最小值 , del 數列[i] 可以直接珊除數列數字
+  心得: 老實說他說他 "Time Limit Exceeded" .w.
+    所以我程式邏輯沒錯但是就是寫太爛了qwq 但又很晚了又懶得去再修 明天看看要不要玩點資安還是繼續補眠 上禮拜社團事情忙不完根本沒時間放鬆寫程式.w. 話說我今天在資安群刷了點存在感 好尷尬awa
+   
   
