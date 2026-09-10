@@ -32,6 +32,33 @@ DAY 7  26/9/7
   心得: 看來初階的題目我應該都還可以上手 ， 只要更熟練就一定可以越寫越快 這次我邊聊天邊寫寫了40分鐘.w.
   下次來專心寫好了看看owo? 還有順帶一提 今天的題目我一次試成功>:) 寫完驗證直接全部通過:D 超開心的:))))
    話說程式碼連結就丟一樣上面的word -wo
+DAY 8 26/9/10
+  今天進度: 被資安嚇到跟查閱資料
+  自主學習課想說來試試看解個最基礎ctf 但是我發現連最基礎我都看不懂💀 所以開始上網查各資源 找到了篇文章:
+  https://dfirmadness.com/getting-into-infosec/the-five-pillars/
+  讀完發現完啦 好多D: 我有去問上次資工營的學長姐w 如果只想用ctf or 去AIS3 看看 真的都要學嗎.w. 他們還沒有回我awa
+  我現在稍微來做個那篇文章說要讀什麼的筆記:
+  
+  1. https://www.amazon.com/Learning-Practicing-Leveraging-Practical-Detection/dp/1731254458
+  這本書很好owob
+  2.https://www.thecybermentor.com
+  他們yt頻道很好
+  3.很重要的基礎: (詳情在網站上 因為太多就不全部打出來了w)
+  General Computing
+  Computer Networking
+  Programming and Scripting
+  Windows
+  Linux
+  4.資源:
+  就去那個網站看ww 後面有 -> https://dfirmadness.com/getting-into-infosec/the-five-pillars/
+  這個可以幫你用環境:D -> https://www.youtube.com/watch?v=_OseTyfXr3Q
+  這個好像要付錢 但是有不錯的學習資源 -> https://ine.com/dive
+  之前資安營學長 推薦的網站 -> https://tryhackme.com/dashboard
+
+  其他的東西離我有點遠我改天再研究owob
+
+  
+
   
    
   
