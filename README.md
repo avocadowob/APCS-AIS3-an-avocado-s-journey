@@ -62,10 +62,12 @@ DAY 9 26/9/14
   但是今天回去寫讓我感覺我好爛阿D: 老是忘記基礎qwq 我要努力找到動力owob
 
 DAY 10 26/9/17
-今日進度 : 讀那個超讚的文章 https://primer.cylabacademy.org & 自己解了人生第一個ctf 題目:D
+今日進度 : 讀那個超讚的文章 TO 2.5.4 https://primer.cylabacademy.org & 自己解了人生第一個ctf 題目:D
     學會使用 ls cd pwd cat echo mkdir 簡單指令 並應用owo
   心得 : 好爽阿 :)) 剛剛在實作的時候 整個腺上激素 直接標高 
 
   
-   
+DAY 11 26/9/18
+今日進度 : 文章 (TO 3.2 ) 帶我做了 First Grep 這一題  
+    心得 : owo 其實現在是9/19 凌晨12:52 w 就昨天弄完就還想繼續玩ww 就半夜來玩:P
   
